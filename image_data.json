@@ -1,0 +1,3428 @@
+{
+  "repository": "frysky95/omnia-room-shots",
+  "branch": "copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d",
+  "base_url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/",
+  "total_images": 570,
+  "images": [
+    {
+      "filename": "ASPEN_3CSofa-CH_WildernessChoc-LG ArabesqueMoccasin.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ASPEN_3CSofa-CH_WildernessChoc-LG%20ArabesqueMoccasin.jpg",
+      "size_bytes": 315101,
+      "size_mb": 0.3
+    },
+    {
+      "filename": "Albany SLCO_Urban Arctic_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Albany%20SLCO_Urban%20Arctic_2_ok.jpg",
+      "size_bytes": 211659,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Albany SLCO_Urban Graphite_Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Albany%20SLCO_Urban%20Graphite_Cropped.jpg",
+      "size_bytes": 112503,
+      "size_mb": 0.11
+    },
+    {
+      "filename": "Albany SLCO_Urban Graphite_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Albany%20SLCO_Urban%20Graphite_ok.jpg",
+      "size_bytes": 214585,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Albany Sectional_Urban Arctic_4_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Albany%20Sectional_Urban%20Arctic_4_ok.jpg",
+      "size_bytes": 251845,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Albany Sectional_Urban Graphite_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Albany%20Sectional_Urban%20Graphite_2_ok.jpg",
+      "size_bytes": 327347,
+      "size_mb": 0.31
+    },
+    {
+      "filename": "Albany-3C Sofa-Navjo Butter.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Albany-3C%20Sofa-Navjo%20Butter.jpg",
+      "size_bytes": 193633,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "AlbanySectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/AlbanySectionalRoom1.jpg",
+      "size_bytes": 172950,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Albany_3C-Chaise-Sectional_Softsations-ash_RS_010520.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Albany_3C-Chaise-Sectional_Softsations-ash_RS_010520.jpg",
+      "size_bytes": 163284,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Albany_3CSofa-Love-Chair_SoftsationsIce.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Albany_3CSofa-Love-Chair_SoftsationsIce.jpg",
+      "size_bytes": 263980,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Albany_Sofa-Love-CH-OT_Denver-Hunter_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Albany_Sofa-Love-CH-OT_Denver-Hunter_2022.jpg",
+      "size_bytes": 307709,
+      "size_mb": 0.29
+    },
+    {
+      "filename": "Albany_Sofa-Love-Ch-Ot_Denver-Bordeaux_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Albany_Sofa-Love-Ch-Ot_Denver-Bordeaux_2022.jpg",
+      "size_bytes": 364683,
+      "size_mb": 0.35
+    },
+    {
+      "filename": "AlexandriaChairRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/AlexandriaChairRoom1.jpg",
+      "size_bytes": 199935,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "AlexandriaPB_LegendsWW_Pony_Monster.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/AlexandriaPB_LegendsWW_Pony_Monster.jpg",
+      "size_bytes": 348628,
+      "size_mb": 0.33
+    },
+    {
+      "filename": "Allusion 3 Studio LSect_Oxford Sapphire_3_NC_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Allusion%203%20Studio%20LSect_Oxford%20Sapphire_3_NC_ok.jpg",
+      "size_bytes": 247006,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Allusion_SoftSations-Ice.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Allusion_SoftSations-Ice.jpg",
+      "size_bytes": 164788,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Allusion_Studio_WhisperSnow_ok2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Allusion_Studio_WhisperSnow_ok2.jpg",
+      "size_bytes": 277798,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Alpharetta_Sofa-Love-Ch-Otto_GuanacoWest_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Alpharetta_Sofa-Love-Ch-Otto_GuanacoWest_2022.jpg",
+      "size_bytes": 353833,
+      "size_mb": 0.34
+    },
+    {
+      "filename": "Arlington_SLC_Urban-Maple_121919.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Arlington_SLC_Urban-Maple_121919.jpg",
+      "size_bytes": 233394,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Ashton_3CSofa-Chaise_PoloClubCaramel_Cobra Ranch.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ashton_3CSofa-Chaise_PoloClubCaramel_Cobra%20Ranch.jpg",
+      "size_bytes": 284656,
+      "size_mb": 0.27
+    },
+    {
+      "filename": "Ashton_RS_1_041616.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ashton_RS_1_041616.jpg",
+      "size_bytes": 233938,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Ashton_Sect._Silk Fog.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ashton_Sect._Silk%20Fog.jpg",
+      "size_bytes": 215878,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Ashton_Sect_Silk Fog 2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ashton_Sect_Silk%20Fog%202022.jpg",
+      "size_bytes": 215878,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Ashton_w-Table-Picture.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ashton_w-Table-Picture.jpg",
+      "size_bytes": 761132,
+      "size_mb": 0.73
+    },
+    {
+      "filename": "Aspen_3CSofa-2CLove_SSBlack-Arabesque Dark Cloud.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Aspen_3CSofa-2CLove_SSBlack-Arabesque%20Dark%20Cloud.jpg",
+      "size_bytes": 317752,
+      "size_mb": 0.3
+    },
+    {
+      "filename": "Athens - Armchair_room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Athens%20-%20Armchair_room.jpg",
+      "size_bytes": 229141,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Athens - Loveseat_room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Athens%20-%20Loveseat_room.jpg",
+      "size_bytes": 224765,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Athens - Sectional_room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Athens%20-%20Sectional_room.jpg",
+      "size_bytes": 202652,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Athens - Sofa - 2Armchair_room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Athens%20-%20Sofa%20-%202Armchair_room.jpg",
+      "size_bytes": 185042,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Athens - Sofa_room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Athens%20-%20Sofa_room.jpg",
+      "size_bytes": 219059,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Athens_Sofa-Love-Chair-Otto_Urban-Mahogany818.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Athens_Sofa-Love-Chair-Otto_Urban-Mahogany818.jpg",
+      "size_bytes": 193437,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Athens_Sofa-Love-Chair-Otto_Urban-MahoganyRS_121818 Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Athens_Sofa-Love-Chair-Otto_Urban-MahoganyRS_121818%20Cropped.jpg",
+      "size_bytes": 232886,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Axel_PBRecliner_Wilder-Bark_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Axel_PBRecliner_Wilder-Bark_2023.jpg",
+      "size_bytes": 235448,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "BahamasofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BahamasofaRoom1.jpg",
+      "size_bytes": 196294,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "BeaumontSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BeaumontSofaRoom1.jpg",
+      "size_bytes": 178284,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "BellaChairRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BellaChairRoom1.jpg",
+      "size_bytes": 93111,
+      "size_mb": 0.09
+    },
+    {
+      "filename": "Bellville_PBRecliner_Oxford-Cabernet&Randall_Eugene-Espresso_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bellville_PBRecliner_Oxford-Cabernet%26Randall_Eugene-Espresso_2023.jpg",
+      "size_bytes": 343670,
+      "size_mb": 0.33
+    },
+    {
+      "filename": "Bellville_PBRecliner_Oxford-Cabernet_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bellville_PBRecliner_Oxford-Cabernet_2023.jpg",
+      "size_bytes": 295932,
+      "size_mb": 0.28
+    },
+    {
+      "filename": "Benjamin_S-LV-Chair_Valentino Cognac.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Benjamin_S-LV-Chair_Valentino%20Cognac.jpg",
+      "size_bytes": 229818,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "BennettSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BennettSofaRoom1.jpg",
+      "size_bytes": 203328,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "BentleyChairRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BentleyChairRoom1.jpg",
+      "size_bytes": 153058,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Bergamo-Murano32_2C-Sofa_Recliner_Bella-Dolce-Chestnut_RS_021719.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo-Murano32_2C-Sofa_Recliner_Bella-Dolce-Chestnut_RS_021719.jpg",
+      "size_bytes": 227994,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Bergamo_Bellini 24-RS no cocktail.jpg.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Bellini%2024-RS%20no%20cocktail.jpg.jpg",
+      "size_bytes": 187824,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Bergamo_Bellini 24-RS.jpg  Reverse.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Bellini%2024-RS.jpg%20%20Reverse.jpg",
+      "size_bytes": 201185,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Bergamo_Manzoni 32_Sardinia 28-RS 2 (006).jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Manzoni%2032_Sardinia%2028-RS%202%20%28006%29.jpg",
+      "size_bytes": 150007,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Bergamo_Manzoni24_3CSofa-28Chair_UrbanRiver.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Manzoni24_3CSofa-28Chair_UrbanRiver.jpg",
+      "size_bytes": 224586,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Bergamo_Manzoni32-2C-Sofa_Sardinia28-Recliner_Delmar-Notte_RS_051819 Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Manzoni32-2C-Sofa_Sardinia28-Recliner_Delmar-Notte_RS_051819%20Cropped.jpg",
+      "size_bytes": 120860,
+      "size_mb": 0.12
+    },
+    {
+      "filename": "Bergamo_Manzoni32-2C-Sofa_Sardinia28-Recliner_Delmar-Notte_RS_051819.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Manzoni32-2C-Sofa_Sardinia28-Recliner_Delmar-Notte_RS_051819.jpg",
+      "size_bytes": 127550,
+      "size_mb": 0.12
+    },
+    {
+      "filename": "Bergamo_Murano 32_Moderno 24-Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Murano%2032_Moderno%2024-Cropped.jpg",
+      "size_bytes": 116644,
+      "size_mb": 0.11
+    },
+    {
+      "filename": "Bergamo_Murano32-2CSofa_28Recl_ Amalfi Lipstick_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Murano32-2CSofa_28Recl_%20Amalfi%20Lipstick_2022.jpg",
+      "size_bytes": 185185,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Bergamo_Murano32_2C-Sofa_Moderno24_Recliner_Essence-Coal_RS_051819.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Murano32_2C-Sofa_Moderno24_Recliner_Essence-Coal_RS_051819.jpg",
+      "size_bytes": 154377,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Bergamo_Ponza28_Sect__SoftSations-Ash_RS_031119.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Ponza28_Sect__SoftSations-Ash_RS_031119.jpg",
+      "size_bytes": 145504,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Bergamo_Ponza_Sect_SoftSations-Ash_050219.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Ponza_Sect_SoftSations-Ash_050219.jpg",
+      "size_bytes": 132270,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "Bergamo_Sardinia28_Sofa&Sardinia32 Sofa_SaloonLuna_102020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Sardinia28_Sofa%26Sardinia32%20Sofa_SaloonLuna_102020.jpg",
+      "size_bytes": 237295,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Bergamo_Sardinia_Curve-Sectional_SS Ice-Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Sardinia_Curve-Sectional_SS%20Ice-Cropped.jpg",
+      "size_bytes": 178481,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Bergamo_Sardinia_Curve-Sectional_SS Ice.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Bergamo_Sardinia_Curve-Sectional_SS%20Ice.jpg",
+      "size_bytes": 213948,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Billie Sect__DuranFern.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Billie%20Sect__DuranFern.jpg",
+      "size_bytes": 213208,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Billie_3CSofa_Wilder-Chocolate_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Billie_3CSofa_Wilder-Chocolate_.jpg",
+      "size_bytes": 312117,
+      "size_mb": 0.3
+    },
+    {
+      "filename": "BreckenridgeChairRS_SaloonMushroom_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BreckenridgeChairRS_SaloonMushroom_2021.jpg",
+      "size_bytes": 180359,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "BreckenridgeRS_SaloonMushroom_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BreckenridgeRS_SaloonMushroom_2021.jpg",
+      "size_bytes": 276537,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Breckenridge_3CSofa_LegendsDkCloud_2021 Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Breckenridge_3CSofa_LegendsDkCloud_2021%20Cropped.jpg",
+      "size_bytes": 275667,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Breckenridge_3CSofa_LegendsDkCloud_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Breckenridge_3CSofa_LegendsDkCloud_2021.jpg",
+      "size_bytes": 263354,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Breckenridge_3C_GrandCanyon-Bisque_Ogden_Room 2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Breckenridge_3C_GrandCanyon-Bisque_Ogden_Room%202023.jpg",
+      "size_bytes": 226589,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Breckenridge_3C_GrandCanyon-Bisque_Ogden_Room-CROPPED.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Breckenridge_3C_GrandCanyon-Bisque_Ogden_Room-CROPPED.jpg",
+      "size_bytes": 165195,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Breckenridge_Sofa_RS-2_101016.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Breckenridge_Sofa_RS-2_101016.jpg",
+      "size_bytes": 200273,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Brisbane Sect Corona Grand Canyon Ortis.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brisbane%20Sect%20Corona%20Grand%20Canyon%20Ortis.jpg",
+      "size_bytes": 236707,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Brisbane-Paloma_Legends-Mocc_2024.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brisbane-Paloma_Legends-Mocc_2024.jpg",
+      "size_bytes": 239032,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "BrisbaneSect_CoronaOtto_GrandC_Smoke.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BrisbaneSect_CoronaOtto_GrandC_Smoke.jpg",
+      "size_bytes": 272551,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Brisbane_Sect._ Polo Club Coffee.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brisbane_Sect._%20Polo%20Club%20Coffee.jpg",
+      "size_bytes": 336949,
+      "size_mb": 0.32
+    },
+    {
+      "filename": "Brisbane_Sect_Eugene-Smoke_121918_RS_Horizontal.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brisbane_Sect_Eugene-Smoke_121918_RS_Horizontal.jpg",
+      "size_bytes": 163611,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Brisbane_Sect_Eugene-Smoke_121918_RS_Vertical.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brisbane_Sect_Eugene-Smoke_121918_RS_Vertical.jpg",
+      "size_bytes": 148134,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Brisbane_Sect_Eugene-Smoke_121918_RS_w-inset-Resized.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brisbane_Sect_Eugene-Smoke_121918_RS_w-inset-Resized.jpg",
+      "size_bytes": 164581,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Brisbane_Sect_Eugene-Smoke_121918_RS_w-inset.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brisbane_Sect_Eugene-Smoke_121918_RS_w-inset.jpg",
+      "size_bytes": 161382,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Brisbane_Sect_Eugene-Smoke_Back_Detail-1_RS_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brisbane_Sect_Eugene-Smoke_Back_Detail-1_RS_121918.jpg",
+      "size_bytes": 182870,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Brisbane_Sect_Eugene-Smoke_No-Table_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brisbane_Sect_Eugene-Smoke_No-Table_121918.jpg",
+      "size_bytes": 142922,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Brisbane_Sectional_GrandCanyon-Stone_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brisbane_Sectional_GrandCanyon-Stone_2023.jpg",
+      "size_bytes": 324423,
+      "size_mb": 0.31
+    },
+    {
+      "filename": "BritanniaChairRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BritanniaChairRoom1.jpg",
+      "size_bytes": 193505,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "BrookeChairRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BrookeChairRoom1.jpg",
+      "size_bytes": 195277,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Brookfield_Horizontal RS Reverse.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brookfield_Horizontal%20RS%20Reverse.jpg",
+      "size_bytes": 490318,
+      "size_mb": 0.47
+    },
+    {
+      "filename": "Brookfield_Horizontal RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brookfield_Horizontal%20RS.jpg",
+      "size_bytes": 486127,
+      "size_mb": 0.46
+    },
+    {
+      "filename": "BrookfieldsofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BrookfieldsofaRoom1.jpg",
+      "size_bytes": 599967,
+      "size_mb": 0.57
+    },
+    {
+      "filename": "BrookhavenBXRecl_DA-OgdenCH_PS_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BrookhavenBXRecl_DA-OgdenCH_PS_2_ok.jpg",
+      "size_bytes": 236039,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "BrookhavenBXRecl_Denver-Alabaster_OgdenCH_PagosaSmoke_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BrookhavenBXRecl_Denver-Alabaster_OgdenCH_PagosaSmoke_2_ok.jpg",
+      "size_bytes": 238113,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Brooklyn-Larsen-2_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brooklyn-Larsen-2_RS.jpg",
+      "size_bytes": 157054,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Brooklyn-Larsen_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brooklyn-Larsen_RS.jpg",
+      "size_bytes": 163552,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Brooklyn-Larsen_RS_Vert.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brooklyn-Larsen_RS_Vert.jpg",
+      "size_bytes": 117791,
+      "size_mb": 0.11
+    },
+    {
+      "filename": "BrynnSectional_Oxford-Platinum.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BrynnSectional_Oxford-Platinum.jpg",
+      "size_bytes": 237822,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Brynn_2CSofa-Chair_NewYork-Brandy_2024.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Brynn_2CSofa-Chair_NewYork-Brandy_2024.jpg",
+      "size_bytes": 214763,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "BuenosAires2ArmChaiseRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BuenosAires2ArmChaiseRoom1.jpg",
+      "size_bytes": 182440,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "BuenosAiresSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/BuenosAiresSofaRoom1.jpg",
+      "size_bytes": 200312,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Burton2 [WilderChoc] + View Chair_3_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Burton2%20%5BWilderChoc%5D%20%2B%20View%20Chair_3_ok.jpg",
+      "size_bytes": 329183,
+      "size_mb": 0.31
+    },
+    {
+      "filename": "Burton2_Wilder-Choc_DiamondStitchFawn.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Burton2_Wilder-Choc_DiamondStitchFawn.jpg",
+      "size_bytes": 257260,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "CABANA_3CSofa_Chair_Wilder-Chocolate_room_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CABANA_3CSofa_Chair_Wilder-Chocolate_room_2023.jpg",
+      "size_bytes": 272934,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "CANYON_4CConversation_wOttoman_SoftSationsJava_2020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CANYON_4CConversation_wOttoman_SoftSationsJava_2020.jpg",
+      "size_bytes": 231362,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "CHEYENNE_RS_3_030613.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CHEYENNE_RS_3_030613.jpg",
+      "size_bytes": 185723,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "CITY CRAFT_3CSofa-SSBianco-ViewChair-Kiva-Steps.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CITY%20CRAFT_3CSofa-SSBianco-ViewChair-Kiva-Steps.jpg",
+      "size_bytes": 179547,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "CS- 712-32-PB_Eugene-HP_2C Sofa_724-24-PB Recl_071720.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CS-%20712-32-PB_Eugene-HP_2C%20Sofa_724-24-PB%20Recl_071720.jpg",
+      "size_bytes": 340028,
+      "size_mb": 0.32
+    },
+    {
+      "filename": "CS- 712-32-PB_Eugene-HP_2C Sofa_724-24-PB Recl_071720_Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CS-%20712-32-PB_Eugene-HP_2C%20Sofa_724-24-PB%20Recl_071720_Cropped.jpg",
+      "size_bytes": 364704,
+      "size_mb": 0.35
+    },
+    {
+      "filename": "CS711-24-SP_Sect_EugeneCream_112020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CS711-24-SP_Sect_EugeneCream_112020.jpg",
+      "size_bytes": 234063,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Camden_3C-Sofa_Chair_Otto_Saloon-Blush_RS_032219.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Camden_3C-Sofa_Chair_Otto_Saloon-Blush_RS_032219.jpg",
+      "size_bytes": 187431,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Cameo_3CSofa-Chair_Amalfi-Mist_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cameo_3CSofa-Chair_Amalfi-Mist_Room.jpg",
+      "size_bytes": 195569,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Cameo_Chaise-Sectional_Denver-Luxe Blue_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cameo_Chaise-Sectional_Denver-Luxe%20Blue_2023.jpg",
+      "size_bytes": 232545,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Cameo_Chaise-Sectional_Valentino-Skylight_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cameo_Chaise-Sectional_Valentino-Skylight_2023.jpg",
+      "size_bytes": 232203,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Cameo_RS_2_030613.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cameo_RS_2_030613.jpg",
+      "size_bytes": 268891,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Cameo_RS_Denver-Caramel-2_092622.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cameo_RS_Denver-Caramel-2_092622.jpg",
+      "size_bytes": 266194,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Cameo_SLCO, Denver-LuxeBlue_Room2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cameo_SLCO%2C%20Denver-LuxeBlue_Room2023.jpg",
+      "size_bytes": 184440,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Cameo_SLCO_Valentino-Skylight_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cameo_SLCO_Valentino-Skylight_2023.jpg",
+      "size_bytes": 172224,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Canyon Room 022812.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Canyon%20Room%20022812.jpg",
+      "size_bytes": 184598,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Canyon4SeatConversationRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Canyon4SeatConversationRoom1.jpg",
+      "size_bytes": 672894,
+      "size_mb": 0.64
+    },
+    {
+      "filename": "Capriana_3CSofa,Love,Chr, & Otto_Amalfi-Vanilla_RS_110819.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Capriana_3CSofa%2CLove%2CChr%2C%20%26%20Otto_Amalfi-Vanilla_RS_110819.jpg",
+      "size_bytes": 190452,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "CarolinaRoomOpen1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CarolinaRoomOpen1.jpg",
+      "size_bytes": 163363,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Cartwright3SeatConversationRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cartwright3SeatConversationRoom1.jpg",
+      "size_bytes": 267793,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Cartwright4CConvSofa-DurangoPkg_PalomaChr_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cartwright4CConvSofa-DurangoPkg_PalomaChr_2022.jpg",
+      "size_bytes": 326535,
+      "size_mb": 0.31
+    },
+    {
+      "filename": "Cartwright4CConvSofa-DurangoPkg_PalomaChr_2022_ok2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cartwright4CConvSofa-DurangoPkg_PalomaChr_2022_ok2.jpg",
+      "size_bytes": 326535,
+      "size_mb": 0.31
+    },
+    {
+      "filename": "CartwrightHort.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CartwrightHort.jpg",
+      "size_bytes": 261865,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Cartwright_ Aurora.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cartwright_%20Aurora.jpg",
+      "size_bytes": 187101,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Cartwright_4CConv_ZorbaPkg_102020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cartwright_4CConv_ZorbaPkg_102020.jpg",
+      "size_bytes": 297840,
+      "size_mb": 0.28
+    },
+    {
+      "filename": "Cartwright_4C_Conversation_RS_021518.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cartwright_4C_Conversation_RS_021518.jpg",
+      "size_bytes": 226010,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Cartwright_GrandCanyon-Stone-Chevy_Chloe_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cartwright_GrandCanyon-Stone-Chevy_Chloe_.jpg",
+      "size_bytes": 261329,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Cartwright_Hawk-Correlate +DixonChair_Yakima-Mineral_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cartwright_Hawk-Correlate%20%2BDixonChair_Yakima-Mineral_2023.jpg",
+      "size_bytes": 242696,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Cartwrightroom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cartwrightroom1.jpg",
+      "size_bytes": 264795,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "CastilianSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CastilianSofaRoom1.jpg",
+      "size_bytes": 268111,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Catera4SeatConversationroom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Catera4SeatConversationroom1.jpg",
+      "size_bytes": 198570,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "CateraReclinerRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CateraReclinerRoom1.jpg",
+      "size_bytes": 197436,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "CateraSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CateraSofaRoom1.jpg",
+      "size_bytes": 195158,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "CedarHeightsLSFullSlpr-AmalfiOxfordBlue1_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CedarHeightsLSFullSlpr-AmalfiOxfordBlue1_ok.jpg",
+      "size_bytes": 205001,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "CedarHeightsLSFullSlpr-AmalfiOxfordBlue_Room_2022 (002).jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CedarHeightsLSFullSlpr-AmalfiOxfordBlue_Room_2022%20%28002%29.jpg",
+      "size_bytes": 205001,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "CedarHeightsLSFullSlpr-AmalfiOxfordBlue_Room_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CedarHeightsLSFullSlpr-AmalfiOxfordBlue_Room_2022.jpg",
+      "size_bytes": 205001,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "CedarHeightsSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CedarHeightsSofaRoom1.jpg",
+      "size_bytes": 29039,
+      "size_mb": 0.03
+    },
+    {
+      "filename": "CelesteRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CelesteRoom1.jpg",
+      "size_bytes": 213846,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Chandler_Swivelchair_Maxine_Aloe_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Chandler_Swivelchair_Maxine_Aloe_.jpg",
+      "size_bytes": 242279,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "ChelseaDecoSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ChelseaDecoSofaRoom1.jpg",
+      "size_bytes": 183046,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "CheyenneSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CheyenneSofaRoom1.jpg",
+      "size_bytes": 141658,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "City Craft-Burlington Ranch .jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/City%20Craft-Burlington%20Ranch%20.jpg",
+      "size_bytes": 138652,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "City Craft-Saloon Tx-Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/City%20Craft-Saloon%20Tx-Cropped.jpg",
+      "size_bytes": 139336,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "City-Craft_Sect_Urban-Driftwood_RS_110317.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/City-Craft_Sect_Urban-Driftwood_RS_110317.jpg",
+      "size_bytes": 168348,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "CityCraft3CSofa-SilkTerracota_3_Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CityCraft3CSofa-SilkTerracota_3_Cropped.jpg",
+      "size_bytes": 129172,
+      "size_mb": 0.12
+    },
+    {
+      "filename": "CityCraft3CSofa-SilkTerracota_3_Darker.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CityCraft3CSofa-SilkTerracota_3_Darker.jpg",
+      "size_bytes": 211097,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "CityCraft3CSofa-SilkTerracota_3_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CityCraft3CSofa-SilkTerracota_3_ok.jpg",
+      "size_bytes": 198264,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "CityCraft3CSofa-SilkTerracota_Darker.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CityCraft3CSofa-SilkTerracota_Darker.jpg",
+      "size_bytes": 212499,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "CityCraftSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CityCraftSofaRoom1.jpg",
+      "size_bytes": 202856,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "CitySleekSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CitySleekSectionalRoom1.jpg",
+      "size_bytes": 185772,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "CohibaSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/CohibaSofaRoom1.jpg",
+      "size_bytes": 200312,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Coleman_Recliner_Saloon-Texas_RS_Horiz_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Coleman_Recliner_Saloon-Texas_RS_Horiz_121918.jpg",
+      "size_bytes": 175308,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "ColumbusRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ColumbusRoom1.jpg",
+      "size_bytes": 156371,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Concord_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Concord_RS.jpg",
+      "size_bytes": 161118,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "ConnorBC_3CSofa + Recliner_Urban-Wheat.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ConnorBC_3CSofa%20%2B%20Recliner_Urban-Wheat.jpg",
+      "size_bytes": 261520,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Connor_Sect_Coleman_Recliner_Saloon-Texas_RS_Horiz_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Connor_Sect_Coleman_Recliner_Saloon-Texas_RS_Horiz_121918.jpg",
+      "size_bytes": 177422,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Connor_Sect_Coleman_Recliner_Saloon-Texas_RS_Horiz_with-Table_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Connor_Sect_Coleman_Recliner_Saloon-Texas_RS_Horiz_with-Table_121918.jpg",
+      "size_bytes": 183713,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Connor_Sect_Coleman_Recliner_Saloon-Texas_RS_Vertical_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Connor_Sect_Coleman_Recliner_Saloon-Texas_RS_Vertical_121918.jpg",
+      "size_bytes": 214661,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Connor_Sect__Open_Coleman_Recliner_Saloon-Texas_RS_Vertical_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Connor_Sect__Open_Coleman_Recliner_Saloon-Texas_RS_Vertical_121918.jpg",
+      "size_bytes": 214701,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "ContessaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ContessaRoom1.jpg",
+      "size_bytes": 242136,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Cordova_RS_2_030713.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cordova_RS_2_030713.jpg",
+      "size_bytes": 227925,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Cordova_RS_3_030713.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cordova_RS_3_030713.jpg",
+      "size_bytes": 240891,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Cornell_3CSofa_2CLove_HiBkConsole_UrbanArctic_ok2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Cornell_3CSofa_2CLove_HiBkConsole_UrbanArctic_ok2.jpg",
+      "size_bytes": 220998,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Dakota_Sofa_072613.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Dakota_Sofa_072613.jpg",
+      "size_bytes": 181673,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Dakota_Sofa_Room_072613.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Dakota_Sofa_Room_072613.jpg",
+      "size_bytes": 181673,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "DallasSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/DallasSofaRoom1.jpg",
+      "size_bytes": 190855,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "DaltonSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/DaltonSofaRoom1.jpg",
+      "size_bytes": 178122,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "DaniloSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/DaniloSectionalRoom1.jpg",
+      "size_bytes": 234993,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Danilo_2CSofa_WhisperDoe.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Danilo_2CSofa_WhisperDoe.jpg",
+      "size_bytes": 190612,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Danilo_Sofa-Chaise-Bella_Eugene Mink-Celine-Truffle_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Danilo_Sofa-Chaise-Bella_Eugene%20Mink-Celine-Truffle_2023.jpg",
+      "size_bytes": 193362,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Delano_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Delano_RS.jpg",
+      "size_bytes": 123475,
+      "size_mb": 0.12
+    },
+    {
+      "filename": "Dominic_Room_052913 Chair.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Dominic_Room_052913%20Chair.jpg",
+      "size_bytes": 127980,
+      "size_mb": 0.12
+    },
+    {
+      "filename": "Dominic_Room_052913.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Dominic_Room_052913.jpg",
+      "size_bytes": 143731,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Dominion_3C_Conver_RS_1_030713.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Dominion_3C_Conver_RS_1_030713.jpg",
+      "size_bytes": 218079,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Dominion_4C-Conver-Sofa_Artisan-Patina_RS_051819.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Dominion_4C-Conver-Sofa_Artisan-Patina_RS_051819.jpg",
+      "size_bytes": 200518,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Duke Slipper Chair_Charlotte-Char.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Duke%20Slipper%20Chair_Charlotte-Char.jpg",
+      "size_bytes": 204265,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Duke_1CSofa_Silk-Porcelain_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Duke_1CSofa_Silk-Porcelain_Room.jpg",
+      "size_bytes": 151229,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Duke_1CSofa_Silk-Porclain_Angle_.Room jpg.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Duke_1CSofa_Silk-Porclain_Angle_.Room%20jpg.jpg",
+      "size_bytes": 251128,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Duke_Sofa_Whisper-Snowflake_Crop_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Duke_Sofa_Whisper-Snowflake_Crop_.jpg",
+      "size_bytes": 152366,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Duke_Sofa_Whisper-Snowflake_Harvey-Felicia-Timber_ - Copy.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Duke_Sofa_Whisper-Snowflake_Harvey-Felicia-Timber_%20-%20Copy.jpg",
+      "size_bytes": 172206,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Dunhill_Chair.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Dunhill_Chair.jpg",
+      "size_bytes": 271114,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Dunhill_RS_1_041616.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Dunhill_RS_1_041616.jpg",
+      "size_bytes": 234802,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "ESSEX LEATHER CHAISE DENVER-LUXEBLUE.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ESSEX%20LEATHER%20CHAISE%20DENVER-LUXEBLUE.jpg",
+      "size_bytes": 250326,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Echo_Sect_Delmar-Saddle_RS_052019.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Echo_Sect_Delmar-Saddle_RS_052019.jpg",
+      "size_bytes": 167056,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "ElDoradoSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ElDoradoSofaRoom1.jpg",
+      "size_bytes": 608308,
+      "size_mb": 0.58
+    },
+    {
+      "filename": "ElDoradoSofaRoom2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ElDoradoSofaRoom2.jpg",
+      "size_bytes": 157445,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Ellis Sectional Denver Black.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ellis%20Sectional%20Denver%20Black.jpg",
+      "size_bytes": 244539,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Ellis Sectional_Denver Charcoal.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ellis%20Sectional_Denver%20Charcoal.jpg",
+      "size_bytes": 251413,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Ellis Sectional_Denver Charcoal_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ellis%20Sectional_Denver%20Charcoal_2_ok.jpg",
+      "size_bytes": 245593,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Ellis Sofa-Love-CH_Denver- Charcoal.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ellis%20Sofa-Love-CH_Denver-%20Charcoal.jpg",
+      "size_bytes": 177379,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Ellis_3CSofa_2CLove_Chair_Urban Arctic_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ellis_3CSofa_2CLove_Chair_Urban%20Arctic_2021.jpg",
+      "size_bytes": 209676,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Ellis_Arm Detail.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ellis_Arm%20Detail.jpg",
+      "size_bytes": 139862,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "Ellis_Sect_Ergo_Chair_RS_050718.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ellis_Sect_Ergo_Chair_RS_050718.jpg",
+      "size_bytes": 224294,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Ellis_Sect_RS_050718.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ellis_Sect_RS_050718.jpg",
+      "size_bytes": 243084,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Ellis_Sofa-Love-CH_Denver Black.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ellis_Sofa-Love-CH_Denver%20Black.jpg",
+      "size_bytes": 207867,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "EncinoSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/EncinoSofaRoom1.jpg",
+      "size_bytes": 199464,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Ergo_Chair_Manhattan_Sofa_082917.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ergo_Chair_Manhattan_Sofa_082917.jpg",
+      "size_bytes": 197297,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Ergo_Collection_Chairs-2_082917.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ergo_Collection_Chairs-2_082917.jpg",
+      "size_bytes": 161195,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Ergo_Collection_Chairs-3_082917.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ergo_Collection_Chairs-3_082917.jpg",
+      "size_bytes": 98967,
+      "size_mb": 0.09
+    },
+    {
+      "filename": "Ergo_Collection_Chairs_082917.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ergo_Collection_Chairs_082917.jpg",
+      "size_bytes": 177237,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "EscapadeFultonRoom.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/EscapadeFultonRoom.jpg",
+      "size_bytes": 230938,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "EscapadeSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/EscapadeSofaRoom1.jpg",
+      "size_bytes": 384677,
+      "size_mb": 0.37
+    },
+    {
+      "filename": "Escapade_Fulton_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Escapade_Fulton_Room.jpg",
+      "size_bytes": 230938,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Esport Chaise Sectional Nav. Onyx, Driftw Base.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Esport%20Chaise%20Sectional%20Nav.%20Onyx%2C%20Driftw%20Base.jpg",
+      "size_bytes": 205271,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Essence Ottoman Visual-Cropped_Chaise.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Essence%20Ottoman%20Visual-Cropped_Chaise.jpg",
+      "size_bytes": 152883,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Essence Sofa - Chaise Maverick Cognac Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Essence%20Sofa%20-%20Chaise%20Maverick%20Cognac%20Cropped.jpg",
+      "size_bytes": 302467,
+      "size_mb": 0.29
+    },
+    {
+      "filename": "Essence Sofa - Chaise Maverick Cognac Final.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Essence%20Sofa%20-%20Chaise%20Maverick%20Cognac%20Final.jpg",
+      "size_bytes": 220253,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Essence_Sofa-Love_Ch-Ot_Guanaco Aztec_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Essence_Sofa-Love_Ch-Ot_Guanaco%20Aztec_2022.jpg",
+      "size_bytes": 251668,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Essex_RS_Sh2_Horizontal.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Essex_RS_Sh2_Horizontal.jpg",
+      "size_bytes": 233340,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Essex_RS_Sh2_Horizontal_ALT.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Essex_RS_Sh2_Horizontal_ALT.jpg",
+      "size_bytes": 242379,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "FairField_3CSofa&Recliner_BurlingtonRanch.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/FairField_3CSofa%26Recliner_BurlingtonRanch.jpg",
+      "size_bytes": 264103,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "FairField_3Sofa_Recl_GuanacoDarkBrown_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/FairField_3Sofa_Recl_GuanacoDarkBrown_2021.jpg",
+      "size_bytes": 245871,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Fairfield.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fairfield.jpg",
+      "size_bytes": 217843,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Fairfield_3CSofa_Recliner_BurlingtonRanch_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fairfield_3CSofa_Recliner_BurlingtonRanch_2021.jpg",
+      "size_bytes": 264223,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Fairfield_RS_Model_40.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fairfield_RS_Model_40.jpg",
+      "size_bytes": 182755,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Fairfield_RS_Model_82.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fairfield_RS_Model_82.jpg",
+      "size_bytes": 181370,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Fargo Sofa - Chair (SS Ash)_Final.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fargo%20Sofa%20-%20Chair%20%28SS%20Ash%29_Final.jpg",
+      "size_bytes": 202396,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Fargo_Room_052913.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fargo_Room_052913.jpg",
+      "size_bytes": 158747,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Fifth Avenue_Sofa-LV-CH_Denver Strawberry.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fifth%20Avenue_Sofa-LV-CH_Denver%20Strawberry.jpg",
+      "size_bytes": 220867,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Fifth-Avenue_Santa-Monica_Ergo_Village-Antique_LG-Ostrich-Moccasin_RS_121819.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fifth-Avenue_Santa-Monica_Ergo_Village-Antique_LG-Ostrich-Moccasin_RS_121819.jpg",
+      "size_bytes": 201522,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Fifth-Avenue_Village-Antique_LG-Ostrich-Moccasin_RS_Model-69_121918 cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fifth-Avenue_Village-Antique_LG-Ostrich-Moccasin_RS_Model-69_121918%20cropped.jpg",
+      "size_bytes": 194231,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Fifth-Avenue_Village-Antique_LG-Ostrich-Moccasin_RS_Model-69_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fifth-Avenue_Village-Antique_LG-Ostrich-Moccasin_RS_Model-69_121918.jpg",
+      "size_bytes": 203637,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Fifth-Avenue_Village-Antique_LG-Ostrich-Moccasin_RS_Model-94_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fifth-Avenue_Village-Antique_LG-Ostrich-Moccasin_RS_Model-94_121918.jpg",
+      "size_bytes": 199994,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Fifth-Avenue_Village-Antique_LG-Ostrich-Moccasin_RS_Model-96_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fifth-Avenue_Village-Antique_LG-Ostrich-Moccasin_RS_Model-96_121918.jpg",
+      "size_bytes": 202214,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Fifth-Avenue_with-Books_Santa-Monica_Ergo_Village-Antique_LG-Ostrich-Moccasin_RS_121819.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Fifth-Avenue_with-Books_Santa-Monica_Ergo_Village-Antique_LG-Ostrich-Moccasin_RS_121819.jpg",
+      "size_bytes": 207481,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "FifthAvenueSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/FifthAvenueSofaRoom1.jpg",
+      "size_bytes": 156146,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Frisco Curve Sect - Polo Club Cognac3_DiamondeWalnut_112020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Frisco%20Curve%20Sect%20-%20Polo%20Club%20Cognac3_DiamondeWalnut_112020.jpg",
+      "size_bytes": 248845,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "FriscoHort.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/FriscoHort.jpg",
+      "size_bytes": 261126,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "GeorgiaSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/GeorgiaSofaRoom1.jpg",
+      "size_bytes": 232065,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Georgia_3CSofa_Chair_Guanco-Sangria_Library_RS_121719.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Georgia_3CSofa_Chair_Guanco-Sangria_Library_RS_121719.jpg",
+      "size_bytes": 273896,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "GlendoraSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/GlendoraSofaRoom1.jpg",
+      "size_bytes": 882787,
+      "size_mb": 0.84
+    },
+    {
+      "filename": "Great Texas_3CSofa_GuanacoAztec_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Great%20Texas_3CSofa_GuanacoAztec_2021.jpg",
+      "size_bytes": 257389,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "GreatTexasSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/GreatTexasSofaRoom1.jpg",
+      "size_bytes": 148727,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Hacienda2ArmChaiseroom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Hacienda2ArmChaiseroom1.jpg",
+      "size_bytes": 231629,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Haciendasectionalroom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Haciendasectionalroom1.jpg",
+      "size_bytes": 244195,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Hampton_RS_Sh3.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Hampton_RS_Sh3.jpg",
+      "size_bytes": 259743,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Harrison Sect_Oxford-Beach_2024.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Harrison%20Sect_Oxford-Beach_2024.jpg",
+      "size_bytes": 245276,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Hartford Chaise Sect-Denver Butter_11420-.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Hartford%20Chaise%20Sect-Denver%20Butter_11420-.jpg",
+      "size_bytes": 207123,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "HartfordSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/HartfordSofaRoom1.jpg",
+      "size_bytes": 116532,
+      "size_mb": 0.11
+    },
+    {
+      "filename": "Hartford_Sect_Silk-Kiwi_Angled_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Hartford_Sect_Silk-Kiwi_Angled_.jpg",
+      "size_bytes": 224620,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Harvey (sofa & Chair)_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Harvey%20%28sofa%20%26%20Chair%29_ok.jpg",
+      "size_bytes": 265243,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Harvey_3CSofaChair_EugenePebble_2020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Harvey_3CSofaChair_EugenePebble_2020.jpg",
+      "size_bytes": 207214,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Harvey_Sect_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Harvey_Sect_.jpg",
+      "size_bytes": 277451,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Harvey_Sect_Above_Denver-Dove_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Harvey_Sect_Above_Denver-Dove_ok.jpg",
+      "size_bytes": 277451,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "HoustonSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/HoustonSofaRoom1.jpg",
+      "size_bytes": 192730,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Houston_Brooke_RS_1_030613.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Houston_Brooke_RS_1_030613.jpg",
+      "size_bytes": 206370,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "HuntingtonSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/HuntingtonSofaRoom1.jpg",
+      "size_bytes": 207327,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "IslandParadiseSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/IslandParadiseSofaRoom1.jpg",
+      "size_bytes": 66692,
+      "size_mb": 0.06
+    },
+    {
+      "filename": "JETT629_3CSofa&Recliner_Denver-LuxeBlue_room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/JETT629_3CSofa%26Recliner_Denver-LuxeBlue_room.jpg",
+      "size_bytes": 217443,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Jax_Sect_Saloon-Texas_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Jax_Sect_Saloon-Texas_RS.jpg",
+      "size_bytes": 233596,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Jett 622-3CSofa-Recliner_Eugene-Pebble.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Jett%20622-3CSofa-Recliner_Eugene-Pebble.jpg",
+      "size_bytes": 192055,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Jett 627_Sect_Denver-Luxe Blue_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Jett%20627_Sect_Denver-Luxe%20Blue_2023.jpg",
+      "size_bytes": 262700,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Jett 629_ 3CSofa-Recliner_Denver-Charcoal.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Jett%20629_%203CSofa-Recliner_Denver-Charcoal.jpg",
+      "size_bytes": 251633,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Jett_622_Sectional_Eugene Pebble_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Jett_622_Sectional_Eugene%20Pebble_Room.jpg",
+      "size_bytes": 259715,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Joy_SLK_MiaSand + Bella Chair_30x30_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Joy_SLK_MiaSand%20%2B%20Bella%20Chair_30x30_ok.jpg",
+      "size_bytes": 196286,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Joy_SLK_MiaSand + Bella Chair_Closed.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Joy_SLK_MiaSand%20%2B%20Bella%20Chair_Closed.jpg",
+      "size_bytes": 169314,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Joy_SLK_MiaSand_Open Angled_(30x30)_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Joy_SLK_MiaSand_Open%20Angled_%2830x30%29_ok.jpg",
+      "size_bytes": 273144,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Karma_Full-Queen_BlissPorcelain.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Karma_Full-Queen_BlissPorcelain.jpg",
+      "size_bytes": 264785,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Kaymus (Burlington Chocolate)_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus%20%28Burlington%20Chocolate%29_2_ok.jpg",
+      "size_bytes": 345266,
+      "size_mb": 0.33
+    },
+    {
+      "filename": "Kaymus-Sofa-RS-Horz Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus-Sofa-RS-Horz%20Cropped.jpg",
+      "size_bytes": 251955,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Kaymus-Sofa-RS-Horz.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus-Sofa-RS-Horz.jpg",
+      "size_bytes": 217085,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Kaymus-Sofa-RS-Vert closeup.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus-Sofa-RS-Vert%20closeup.jpg",
+      "size_bytes": 237090,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Kaymus-Sofa-RS-Vert.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus-Sofa-RS-Vert.jpg",
+      "size_bytes": 195727,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Kaymus-Sofa_LegendsWW.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus-Sofa_LegendsWW.jpg",
+      "size_bytes": 57430,
+      "size_mb": 0.05
+    },
+    {
+      "filename": "Kaymus3C-CH-LegendsMoccasin_2Final.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus3C-CH-LegendsMoccasin_2Final.jpg",
+      "size_bytes": 320266,
+      "size_mb": 0.31
+    },
+    {
+      "filename": "Kaymus3CSofa-DixonCH_ArtisanPatina2_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus3CSofa-DixonCH_ArtisanPatina2_2_ok.jpg",
+      "size_bytes": 359432,
+      "size_mb": 0.34
+    },
+    {
+      "filename": "Kaymus3CSofa-KaymusCH_ArtisanPatina_Room2_031522.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus3CSofa-KaymusCH_ArtisanPatina_Room2_031522.jpg",
+      "size_bytes": 470217,
+      "size_mb": 0.45
+    },
+    {
+      "filename": "Kaymus_3CSofa_GrandC-Foresta_Front.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus_3CSofa_GrandC-Foresta_Front.jpg",
+      "size_bytes": 175834,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Kaymus_Eugene HP-Celine Truffle_Sect-Closeup.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus_Eugene%20HP-Celine%20Truffle_Sect-Closeup.jpg",
+      "size_bytes": 199135,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Kaymus_SLCO_Valentino-Cognac_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus_SLCO_Valentino-Cognac_2023.jpg",
+      "size_bytes": 274702,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Kaymus_SLCO_Valentino-Mahogany_room2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus_SLCO_Valentino-Mahogany_room2023.jpg",
+      "size_bytes": 260333,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Kaymus_Sect_Saloon-Palomino_No-Table_RS_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus_Sect_Saloon-Palomino_No-Table_RS_121918.jpg",
+      "size_bytes": 171189,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Kaymus_Sect_Saloon-Palomino_RS_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kaymus_Sect_Saloon-Palomino_RS_121918.jpg",
+      "size_bytes": 176956,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Kent_Chr_Bella-Dolce-Sky_RS_110719.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kent_Chr_Bella-Dolce-Sky_RS_110719.jpg",
+      "size_bytes": 190109,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Kent_S-LV-Chair_Silk Aubergine.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kent_S-LV-Chair_Silk%20Aubergine.jpg",
+      "size_bytes": 212863,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Kent_Sectional_whisperSnowflake__102020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kent_Sectional_whisperSnowflake__102020.jpg",
+      "size_bytes": 253318,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Kent_Sofa-Chr_Bella-Dolce-Sky_RS_110719.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kent_Sofa-Chr_Bella-Dolce-Sky_RS_110719.jpg",
+      "size_bytes": 241023,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "KingsburySofaChairOttomanRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/KingsburySofaChairOttomanRoom1.jpg",
+      "size_bytes": 245685,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Kingsbury_4C_Conver_RS_1_030713.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kingsbury_4C_Conver_RS_1_030713.jpg",
+      "size_bytes": 193244,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Kingsbury_4C_Conver_w-Otto_RS_2_030713.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Kingsbury_4C_Conver_w-Otto_RS_2_030713.jpg",
+      "size_bytes": 182026,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "KingsleySectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/KingsleySectionalRoom1.jpg",
+      "size_bytes": 104575,
+      "size_mb": 0.1
+    },
+    {
+      "filename": "Laredo3C_TucsonChair_Artisan-Basque_June2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Laredo3C_TucsonChair_Artisan-Basque_June2021.jpg",
+      "size_bytes": 289401,
+      "size_mb": 0.28
+    },
+    {
+      "filename": "LaredoAlexandriaRivertonRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/LaredoAlexandriaRivertonRoom1.jpg",
+      "size_bytes": 216411,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "LaredoSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/LaredoSofaRoom1.jpg",
+      "size_bytes": 237786,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Laredo_3CConv_Grand Canyon-Ortis_Ogden_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Laredo_3CConv_Grand%20Canyon-Ortis_Ogden_2023.jpg",
+      "size_bytes": 307599,
+      "size_mb": 0.29
+    },
+    {
+      "filename": "LarsenSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/LarsenSectionalRoom1.jpg",
+      "size_bytes": 141915,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Lounge_Sect. _Oxford-Beach_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Lounge_Sect.%20_Oxford-Beach_2022.jpg",
+      "size_bytes": 241237,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Lusso_SuperAL2SuperARChaise_AmericanaDesert_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Lusso_SuperAL2SuperARChaise_AmericanaDesert_Room.jpg",
+      "size_bytes": 282407,
+      "size_mb": 0.27
+    },
+    {
+      "filename": "LuxorReclinerRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/LuxorReclinerRoom1.jpg",
+      "size_bytes": 143376,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "LuxorSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/LuxorSofaRoom1.jpg",
+      "size_bytes": 231750,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Lyndsey_3CSofa_Softsations-Ash_RS_010520.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Lyndsey_3CSofa_Softsations-Ash_RS_010520.jpg",
+      "size_bytes": 177528,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "MadisonSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MadisonSectionalRoom1.jpg",
+      "size_bytes": 188139,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "MandalaySofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MandalaySofaRoom1.jpg",
+      "size_bytes": 174785,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "ManhattanSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ManhattanSofaRoom1.jpg",
+      "size_bytes": 110100,
+      "size_mb": 0.1
+    },
+    {
+      "filename": "Manhattan_Sofa_Ergo_Chair_082917.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Manhattan_Sofa_Ergo_Chair_082917.jpg",
+      "size_bytes": 197297,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "MarcoChairRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MarcoChairRoom1.jpg",
+      "size_bytes": 267263,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "MarcoSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MarcoSectionalRoom1.jpg",
+      "size_bytes": 261202,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Max 3 Deluxe Sofa_PoloClub-Bourbon_2024.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max%203%20Deluxe%20Sofa_PoloClub-Bourbon_2024.jpg",
+      "size_bytes": 298213,
+      "size_mb": 0.28
+    },
+    {
+      "filename": "Max Sectional_Denver Dark Brown.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max%20Sectional_Denver%20Dark%20Brown.jpg",
+      "size_bytes": 280653,
+      "size_mb": 0.27
+    },
+    {
+      "filename": "Max-Milo Cover Page-New Logo.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max-Milo%20Cover%20Page-New%20Logo.jpg",
+      "size_bytes": 137007,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "Max2_Deluxe_2CSofa_GrandCanyon-Stone_View_Maude-Slate.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max2_Deluxe_2CSofa_GrandCanyon-Stone_View_Maude-Slate.jpg",
+      "size_bytes": 272239,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Max3Deluxe_3CSofa_Angled_Duran-Fern.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max3Deluxe_3CSofa_Angled_Duran-Fern.jpg",
+      "size_bytes": 199019,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Max3Deluxe_Sectional_Denver Palomino.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max3Deluxe_Sectional_Denver%20Palomino.jpg",
+      "size_bytes": 263824,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Max3Studio Sofa (Amalfi Crema)_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max3Studio%20Sofa%20%28Amalfi%20Crema%29_2_ok.jpg",
+      "size_bytes": 207285,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Max3Studio_Sect._PoloClub-Bourbon.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max3Studio_Sect._PoloClub-Bourbon.jpg",
+      "size_bytes": 262097,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Max3Super Deluxe (Denver Alabaster)_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max3Super%20Deluxe%20%28Denver%20Alabaster%29_2_ok.jpg",
+      "size_bytes": 230851,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Max_Sect_Polo Club Bourbon_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max_Sect_Polo%20Club%20Bourbon_2022.jpg",
+      "size_bytes": 242852,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Max_Sect_Polo-Club-Bourbon_RS_121818.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max_Sect_Polo-Club-Bourbon_RS_121818.jpg",
+      "size_bytes": 236032,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Max_Sect_Saloon-Texas_RS_120817.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max_Sect_Saloon-Texas_RS_120817.jpg",
+      "size_bytes": 230643,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Max_Sofa-Love-Chair_DenverDk Brown.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max_Sofa-Love-Chair_DenverDk%20Brown.jpg",
+      "size_bytes": 256568,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Max_Sofa-Love_DenverDk Brown_Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max_Sofa-Love_DenverDk%20Brown_Cropped.jpg",
+      "size_bytes": 201690,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Max_Sofa_Love-Ch_Denver-Palomino.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Max_Sofa_Love-Ch_Denver-Palomino.jpg",
+      "size_bytes": 234135,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Maximo 3C Recl Sofa & Recliner-Polo Club Steel.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Maximo%203C%20Recl%20Sofa%20%26%20Recliner-Polo%20Club%20Steel.jpg",
+      "size_bytes": 243906,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Maximo_Recliner-Polo Club Steel.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Maximo_Recliner-Polo%20Club%20Steel.jpg",
+      "size_bytes": 197139,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Maxine3_SuperStudioSofa_Chandler_Maxine_Aloe_ok(1).jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Maxine3_SuperStudioSofa_Chandler_Maxine_Aloe_ok%281%29.jpg",
+      "size_bytes": 229520,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Maxine3_SuperStudioSofa_Chandler_Maxine_Aloe_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Maxine3_SuperStudioSofa_Chandler_Maxine_Aloe_ok.jpg",
+      "size_bytes": 229520,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Maxximus_Sect._PoloClub-Steel.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Maxximus_Sect._PoloClub-Steel.jpg",
+      "size_bytes": 230623,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Maxximus_Sect._PoloClub-Steel.jpg Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Maxximus_Sect._PoloClub-Steel.jpg%20Cropped.jpg",
+      "size_bytes": 233090,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Maxximus_Sect._PoloClub-Steel.jpg with ckt.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Maxximus_Sect._PoloClub-Steel.jpg%20with%20ckt.jpg",
+      "size_bytes": 236117,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "MercedesSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MercedesSectionalRoom1.jpg",
+      "size_bytes": 833302,
+      "size_mb": 0.79
+    },
+    {
+      "filename": "MercedesSectionalRoom2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MercedesSectionalRoom2.jpg",
+      "size_bytes": 758143,
+      "size_mb": 0.72
+    },
+    {
+      "filename": "Messina_Omnia_Room_1_050914.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Messina_Omnia_Room_1_050914.jpg",
+      "size_bytes": 187412,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Metro.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Metro.jpg",
+      "size_bytes": 234380,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Milo_3CSofaChair_LegendsWagonW_2020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Milo_3CSofaChair_LegendsWagonW_2020.jpg",
+      "size_bytes": 330416,
+      "size_mb": 0.32
+    },
+    {
+      "filename": "Milo_SLCO_Denver-Bordeaux.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Milo_SLCO_Denver-Bordeaux.jpg",
+      "size_bytes": 186885,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Milo_SLCO_Denver-Honey.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Milo_SLCO_Denver-Honey.jpg",
+      "size_bytes": 232101,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Milo_Sectional _Denver-Honey_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Milo_Sectional%20_Denver-Honey_Room.jpg",
+      "size_bytes": 260244,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Milo_Sectional_Denver-Bordeaux.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Milo_Sectional_Denver-Bordeaux.jpg",
+      "size_bytes": 333845,
+      "size_mb": 0.32
+    },
+    {
+      "filename": "Milo_Sectional_Legends-Claret.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Milo_Sectional_Legends-Claret.jpg",
+      "size_bytes": 335401,
+      "size_mb": 0.32
+    },
+    {
+      "filename": "MirageVenetianSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MirageVenetianSofaRoom1.jpg",
+      "size_bytes": 144240,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Mission in Walnut Wood Trim copy.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Mission%20in%20Walnut%20Wood%20Trim%20copy.jpg",
+      "size_bytes": 149970,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "MissionPushBackRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MissionPushBackRoom1.jpg",
+      "size_bytes": 153160,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Mission_PB_RS_1_030613.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Mission_PB_RS_1_030613.jpg",
+      "size_bytes": 169740,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "MonteCarloSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MonteCarloSofaRoom1.jpg",
+      "size_bytes": 208567,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Montecito (Artisan Patina)_3_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Montecito%20%28Artisan%20Patina%29_3_ok.jpg",
+      "size_bytes": 173093,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Montecito Sierra Lager DiamondStitch Pair.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Montecito%20Sierra%20Lager%20DiamondStitch%20Pair.jpg",
+      "size_bytes": 175113,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Montecito_Swivel Chair-PoloClub-Caramel.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Montecito_Swivel%20Chair-PoloClub-Caramel.jpg",
+      "size_bytes": 272123,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Montecito_Swivel Chair_PoloClub-Caramel.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Montecito_Swivel%20Chair_PoloClub-Caramel.jpg",
+      "size_bytes": 272123,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "MonterreySofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MonterreySofaRoom1.jpg",
+      "size_bytes": 236420,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "MorganSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/MorganSofaRoom1.jpg",
+      "size_bytes": 141449,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "NevadaSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/NevadaSofaRoom1.jpg",
+      "size_bytes": 92324,
+      "size_mb": 0.09
+    },
+    {
+      "filename": "Newland 3CStationarySofa_ Recl_OxfordPlatinum_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newland%203CStationarySofa_%20Recl_OxfordPlatinum_2022.jpg",
+      "size_bytes": 220124,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Newland_3C & Nolan-Recliner Denver Fawn.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newland_3C%20%26%20Nolan-Recliner%20Denver%20Fawn.jpg",
+      "size_bytes": 206709,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Newport Sectional _Denver Charcoal.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newport%20Sectional%20_Denver%20Charcoal.jpg",
+      "size_bytes": 246586,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "NewportDPeninsulaS_Sofa-Chaise_SilkPutty_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/NewportDPeninsulaS_Sofa-Chaise_SilkPutty_Room.jpg",
+      "size_bytes": 211488,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "NewportDeluxe_Sect._Silk Putty.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/NewportDeluxe_Sect._Silk%20Putty.jpg",
+      "size_bytes": 201954,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "NewportDeluxe_Sect._Silk Putty2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/NewportDeluxe_Sect._Silk%20Putty2.jpg",
+      "size_bytes": 267185,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "NewportDeluxe_Sofa_Denver Luxe Blue_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/NewportDeluxe_Sofa_Denver%20Luxe%20Blue_2022.jpg",
+      "size_bytes": 230145,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "NewportSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/NewportSectionalRoom1.jpg",
+      "size_bytes": 131822,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "Newport_Otto_Brompton-Chocolate_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newport_Otto_Brompton-Chocolate_.jpg",
+      "size_bytes": 175430,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Newport_Sect_Brompton-Chocolate_Cropped_RS_111518.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newport_Sect_Brompton-Chocolate_Cropped_RS_111518.jpg",
+      "size_bytes": 148477,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Newport_Sect_Brompton-Chocolate_No-Books_RS_111518.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newport_Sect_Brompton-Chocolate_No-Books_RS_111518.jpg",
+      "size_bytes": 140898,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "Newport_Sect_Brompton-Chocolate_Stitching_Detail.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newport_Sect_Brompton-Chocolate_Stitching_Detail.jpg",
+      "size_bytes": 154642,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Newport_Sect_Ergo-Chair_Marquis-Spa_RS_110317_subSilkAqua-Resized.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newport_Sect_Ergo-Chair_Marquis-Spa_RS_110317_subSilkAqua-Resized.jpg",
+      "size_bytes": 184299,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Newport_Sect_Ergo-Chair_Marquis-Spa_RS_110317_subSilkAqua-flipped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newport_Sect_Ergo-Chair_Marquis-Spa_RS_110317_subSilkAqua-flipped.jpg",
+      "size_bytes": 184289,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Newport_Sect_Ergo-Chair_Marquis-Spa_RS_110317_subSilkAqua.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newport_Sect_Ergo-Chair_Marquis-Spa_RS_110317_subSilkAqua.jpg",
+      "size_bytes": 186242,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Newport_Sect_Marquis-Spa_RS_110317_subSilkAqua.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Newport_Sect_Marquis-Spa_RS_110317_subSilkAqua.jpg",
+      "size_bytes": 100136,
+      "size_mb": 0.1
+    },
+    {
+      "filename": "NicholasSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/NicholasSofaRoom1.jpg",
+      "size_bytes": 936044,
+      "size_mb": 0.89
+    },
+    {
+      "filename": "Nicholas_Reclining_Sofa_Recliner-and-Half_Urban-Driftwood_RS_121019.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Nicholas_Reclining_Sofa_Recliner-and-Half_Urban-Driftwood_RS_121019.jpg",
+      "size_bytes": 184633,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Nolan_Recl_3CSofa_& Recl_OxfordPlatinum_RS2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Nolan_Recl_3CSofa_%26%20Recl_OxfordPlatinum_RS2021.jpg",
+      "size_bytes": 213379,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Nolan_Recl_3CSofa_&Recl_OxfordPlatinum_RS2021 CROPPED.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Nolan_Recl_3CSofa_%26Recl_OxfordPlatinum_RS2021%20CROPPED.jpg",
+      "size_bytes": 254842,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "OregonSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/OregonSofaRoom1.jpg",
+      "size_bytes": 177315,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "PONZA 28-RS-open Bergamo CROPPED.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PONZA%2028-RS-open%20Bergamo%20CROPPED.jpg",
+      "size_bytes": 138677,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "PRECOTT_RS_1_030613.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PRECOTT_RS_1_030613.jpg",
+      "size_bytes": 198611,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "PS 509 Sofa_Love wConsole_Recliner_Silk Putty.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PS%20509%20Sofa_Love%20wConsole_Recliner_Silk%20Putty.jpg",
+      "size_bytes": 213814,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "PS509_Recliner_Silk-Aqua.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PS509_Recliner_Silk-Aqua.jpg",
+      "size_bytes": 212502,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Paloma_RS_1_041616.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Paloma_RS_1_041616.jpg",
+      "size_bytes": 199417,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "PanteraSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PanteraSectionalRoom1.jpg",
+      "size_bytes": 157009,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "ParisReclinerRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ParisReclinerRoom1.jpg",
+      "size_bytes": 735972,
+      "size_mb": 0.7
+    },
+    {
+      "filename": "ParkTowerSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ParkTowerSectionalRoom1.jpg",
+      "size_bytes": 124689,
+      "size_mb": 0.12
+    },
+    {
+      "filename": "Park_Place_Sofa_RS_1_030713.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Park_Place_Sofa_RS_1_030713.jpg",
+      "size_bytes": 265580,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Pasadena_1CSofa_Chair_Silk-Putty_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Pasadena_1CSofa_Chair_Silk-Putty_2021.jpg",
+      "size_bytes": 193282,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Pasadena_RS 2 .jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Pasadena_RS%202%20.jpg",
+      "size_bytes": 153563,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "PaviaSaloon in Sea glass_SLC_3_2021 CROPPED.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PaviaSaloon%20in%20Sea%20glass_SLC_3_2021%20CROPPED.jpg",
+      "size_bytes": 268891,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "PaviaSaloon in Sea glass_SLC_3_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PaviaSaloon%20in%20Sea%20glass_SLC_3_2021.jpg",
+      "size_bytes": 213074,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Pavia_SLCO_Denver Dove_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Pavia_SLCO_Denver%20Dove_2023.jpg",
+      "size_bytes": 170287,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Pavia_SLCO_Denver Fawn_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Pavia_SLCO_Denver%20Fawn_2023.jpg",
+      "size_bytes": 220666,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Pavia_Sectional_Denver-Dove.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Pavia_Sectional_Denver-Dove.jpg",
+      "size_bytes": 199501,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Pavia_Sectional_Denver-Fawn_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Pavia_Sectional_Denver-Fawn_2023.jpg",
+      "size_bytes": 203412,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Peninsula-Sect_Ergo-Chair_RS_061118.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Peninsula-Sect_Ergo-Chair_RS_061118.jpg",
+      "size_bytes": 249222,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "PennisulaSectionalOtisTablesRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PennisulaSectionalOtisTablesRoom1.jpg",
+      "size_bytes": 185467,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "PhoenixConversationSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PhoenixConversationSofaRoom1.jpg",
+      "size_bytes": 174886,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "PhoenixSectionalroom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PhoenixSectionalroom1.jpg",
+      "size_bytes": 176130,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "PhoenixSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PhoenixSofaRoom1.jpg",
+      "size_bytes": 149822,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "PhoenixSofaRoom2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PhoenixSofaRoom2.jpg",
+      "size_bytes": 121168,
+      "size_mb": 0.12
+    },
+    {
+      "filename": "Phoenix_3CSofa-Recliner_Silk-Putty_recolored.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Phoenix_3CSofa-Recliner_Silk-Putty_recolored.jpg",
+      "size_bytes": 221911,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Pisa_3C Sofa_Saloon Seaglass_3_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Pisa_3C%20Sofa_Saloon%20Seaglass_3_ok.jpg",
+      "size_bytes": 206959,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Pisa_RS_2_030613.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Pisa_RS_2_030613.jpg",
+      "size_bytes": 159306,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Ponza 24 Sect-28Recl_Oxford-Beach_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ponza%2024%20Sect-28Recl_Oxford-Beach_2023.jpg",
+      "size_bytes": 223030,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Portland4SeatsRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Portland4SeatsRoom1.jpg",
+      "size_bytes": 193397,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Power Solutions-509-Sofa_SS-209-Recliner_053017.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Power%20Solutions-509-Sofa_SS-209-Recliner_053017.jpg",
+      "size_bytes": 192279,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Power-Solutions-502_RS_030317.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Power-Solutions-502_RS_030317.jpg",
+      "size_bytes": 236542,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Power-Solutions-502_Recliner_030317.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Power-Solutions-502_Recliner_030317.jpg",
+      "size_bytes": 235220,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Power-Solutions-504_Theater_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Power-Solutions-504_Theater_RS.jpg",
+      "size_bytes": 271674,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Prescott4SeatSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Prescott4SeatSofaRoom1.jpg",
+      "size_bytes": 81234,
+      "size_mb": 0.08
+    },
+    {
+      "filename": "PrescottSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PrescottSofaRoom1.jpg",
+      "size_bytes": 161280,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Prescott_Sofa_RS_1_030713.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Prescott_Sofa_RS_1_030713.jpg",
+      "size_bytes": 209117,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "PrincetonSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/PrincetonSofaRoom1.jpg",
+      "size_bytes": 174611,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "RaleighPB_Grand Canyon Ortiz_ChiefJoeseph]_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/RaleighPB_Grand%20Canyon%20Ortiz_ChiefJoeseph%5D_.jpg",
+      "size_bytes": 257350,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Raleigh_SwivelChairs_Americana-Desert.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Raleigh_SwivelChairs_Americana-Desert.jpg",
+      "size_bytes": 239011,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Ranch_Counterstool_Black.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ranch_Counterstool_Black.jpg",
+      "size_bytes": 241358,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Randall_PBRecliner_Eugene-Espresso_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Randall_PBRecliner_Eugene-Espresso_2023.jpg",
+      "size_bytes": 289788,
+      "size_mb": 0.28
+    },
+    {
+      "filename": "Regent & Riley-Denver-Oxford Blue.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Regent%20%26%20Riley-Denver-Oxford%20Blue.jpg",
+      "size_bytes": 201635,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Regent Denver Oxford Blue (002).jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Regent%20Denver%20Oxford%20Blue%20%28002%29.jpg",
+      "size_bytes": 52346,
+      "size_mb": 0.05
+    },
+    {
+      "filename": "Remington 3C_Eugene Moon_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Remington%203C_Eugene%20Moon_2021.jpg",
+      "size_bytes": 201454,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Remington3CSofa_BurlingtonRanch_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Remington3CSofa_BurlingtonRanch_2021.jpg",
+      "size_bytes": 283727,
+      "size_mb": 0.27
+    },
+    {
+      "filename": "Remington3CSofa_Eugene Smoke.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Remington3CSofa_Eugene%20Smoke.jpg",
+      "size_bytes": 161332,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Remington_3CSofa-Elizabeth_Polo Club Coffee_2023.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Remington_3CSofa-Elizabeth_Polo%20Club%20Coffee_2023.jpg",
+      "size_bytes": 285748,
+      "size_mb": 0.27
+    },
+    {
+      "filename": "Remington_RS_3_030613.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Remington_RS_3_030613.jpg",
+      "size_bytes": 212021,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "RideSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/RideSofaRoom1.jpg",
+      "size_bytes": 196624,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Riley-Europa Oxford Blue.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Riley-Europa%20Oxford%20Blue.jpg",
+      "size_bytes": 206625,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "RitzSofaChairRoom2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/RitzSofaChairRoom2.jpg",
+      "size_bytes": 221011,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "RitzSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/RitzSofaRoom1.jpg",
+      "size_bytes": 147797,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Riverside-Drive_Sofa-Recliner_Guanaco-Black_RS_110317.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Riverside-Drive_Sofa-Recliner_Guanaco-Black_RS_110317.jpg",
+      "size_bytes": 195773,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Riverside-Drive_Sofa-Recliner_Navajo-Charcoal_RS_110317.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Riverside-Drive_Sofa-Recliner_Navajo-Charcoal_RS_110317.jpg",
+      "size_bytes": 282450,
+      "size_mb": 0.27
+    },
+    {
+      "filename": "RivieraSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/RivieraSectionalRoom1.jpg",
+      "size_bytes": 180436,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "RivieraSectionalSleeperRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/RivieraSectionalSleeperRoom1.jpg",
+      "size_bytes": 608372,
+      "size_mb": 0.58
+    },
+    {
+      "filename": "RochesterSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/RochesterSectionalRoom1.jpg",
+      "size_bytes": 233299,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Ryan_3CSofa_2021..jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ryan_3CSofa_2021..jpg",
+      "size_bytes": 233488,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Ryan_3CSofa_Bella-Dolce-Sand_Angled_110521.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ryan_3CSofa_Bella-Dolce-Sand_Angled_110521.jpg",
+      "size_bytes": 233488,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Ryan_Recl_Oxford-Sapphire_Angle__RS_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ryan_Recl_Oxford-Sapphire_Angle__RS_2021.jpg",
+      "size_bytes": 218386,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "SLOFA - Eden_Cropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA%20-%20Eden_Cropped.jpg",
+      "size_bytes": 202237,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "SLOFA-Bliss_KingSlofa_Oxford-DkChocolate  2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Bliss_KingSlofa_Oxford-DkChocolate%20%202.jpg",
+      "size_bytes": 203293,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "SLOFA-Bliss_KingSlofa_Oxford-DkChocolate_OPEN  2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Bliss_KingSlofa_Oxford-DkChocolate_OPEN%20%202.jpg",
+      "size_bytes": 201380,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "SLOFA-COZYQueen_Santorini-Fog_1800x1800.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-COZYQueen_Santorini-Fog_1800x1800.jpg",
+      "size_bytes": 263833,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "SLOFA-Cozy (Terri Sand).jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Cozy%20%28Terri%20Sand%29.jpg",
+      "size_bytes": 177888,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "SLOFA-Cozy_Queen-Slofa_Terri-Sand.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Cozy_Queen-Slofa_Terri-Sand.jpg",
+      "size_bytes": 276001,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "SLOFA-Cozy_Queen-Slofa_Terri-Sand_OPEN.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Cozy_Queen-Slofa_Terri-Sand_OPEN.jpg",
+      "size_bytes": 253554,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "SLOFA-DOVEFull_Santorini-Slate.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-DOVEFull_Santorini-Slate.jpg",
+      "size_bytes": 295465,
+      "size_mb": 0.28
+    },
+    {
+      "filename": "SLOFA-Dove_FullSlofa_Santorini-Slate.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Dove_FullSlofa_Santorini-Slate.jpg",
+      "size_bytes": 238355,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "SLOFA-Eden_Full-Queen_Slofa_Matrix-Cobblestone 2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Eden_Full-Queen_Slofa_Matrix-Cobblestone%202.jpg",
+      "size_bytes": 326434,
+      "size_mb": 0.31
+    },
+    {
+      "filename": "SLOFA-Eden_Queen_Slofa_Matrix-Cobblestone_Front_Open_jpg.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Eden_Queen_Slofa_Matrix-Cobblestone_Front_Open_jpg.jpg",
+      "size_bytes": 279324,
+      "size_mb": 0.27
+    },
+    {
+      "filename": "SLOFA-Full-Queen_Bliss_MatrixDesert_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Full-Queen_Bliss_MatrixDesert_.jpg",
+      "size_bytes": 319828,
+      "size_mb": 0.31
+    },
+    {
+      "filename": "SLOFA-Harmony (Maude Slate).jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Harmony%20%28Maude%20Slate%29.jpg",
+      "size_bytes": 145442,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "SLOFA-Harmony_FullSlofa_Maude-Slate.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Harmony_FullSlofa_Maude-Slate.jpg",
+      "size_bytes": 208853,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "SLOFA-Harmony_LG Amazon Wagon Wheel.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Harmony_LG%20Amazon%20Wagon%20Wheel.jpg",
+      "size_bytes": 219289,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "SLOFA-Joy_(Mia Sand) Queen_Front Open.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Joy_%28Mia%20Sand%29%20Queen_Front%20Open.jpg",
+      "size_bytes": 154208,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "SLOFA-Joy_KingSlofa_Terri-Ecru_OPEN .jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Joy_KingSlofa_Terri-Ecru_OPEN%20.jpg",
+      "size_bytes": 247491,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "SLOFA-Joy_KingSlofa_Terri-Ecru_OPEN_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Joy_KingSlofa_Terri-Ecru_OPEN_.jpg",
+      "size_bytes": 247491,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "SLOFA-Joy_SLK_MiaSand + Bella Chair_30x30_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Joy_SLK_MiaSand%20%2B%20Bella%20Chair_30x30_ok.jpg",
+      "size_bytes": 196286,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "SLOFA-Joy_SLK_MiaSand + Bella Chair_Closed.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Joy_SLK_MiaSand%20%2B%20Bella%20Chair_Closed.jpg",
+      "size_bytes": 169314,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "SLOFA-Joy_SLK_MiaSand_Open Angled_(30x30)_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Joy_SLK_MiaSand_Open%20Angled_%2830x30%29_ok.jpg",
+      "size_bytes": 273144,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "SLOFA-Joy_Silk Palomino_Front Open.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Joy_Silk%20Palomino_Front%20Open.jpg",
+      "size_bytes": 229207,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "SLOFA-Karma (Bliss Porcelain) King_ Angled.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Karma%20%28Bliss%20Porcelain%29%20King_%20Angled.jpg",
+      "size_bytes": 275332,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "SLOFA-Karma_BlissPorcelain.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Karma_BlissPorcelain.jpg",
+      "size_bytes": 136478,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "SLOFA-Karma_Full-Queen_Slofa_Matrix-Coblestone .jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Karma_Full-Queen_Slofa_Matrix-Coblestone%20.jpg",
+      "size_bytes": 335085,
+      "size_mb": 0.32
+    },
+    {
+      "filename": "SLOFA-Karma_SLQ_BlissPorcelain.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SLOFA-Karma_SLQ_BlissPorcelain.jpg",
+      "size_bytes": 264785,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "SS 204M_3CSofa-ValentinoCognac_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SS%20204M_3CSofa-ValentinoCognac_2021.jpg",
+      "size_bytes": 240217,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "SS201 Sofa PS 501 Recliner Silk Putty_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SS201%20Sofa%20PS%20501%20Recliner%20Silk%20Putty_Room.jpg",
+      "size_bytes": 211765,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "SS201 Sofa PS 501 Recliner Silk Putty_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SS201%20Sofa%20PS%20501%20Recliner%20Silk%20Putty_ok.jpg",
+      "size_bytes": 211765,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "SS201 Sofa_PS 501 Recliner_ Silk-Aqua_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SS201%20Sofa_PS%20501%20Recliner_%20Silk-Aqua_Room.jpg",
+      "size_bytes": 272194,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "SS201M_Sofa-Love-Ch_Denver Fawn.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SS201M_Sofa-Love-Ch_Denver%20Fawn.jpg",
+      "size_bytes": 222339,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "SS201Sect_Silk-Flannel.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SS201Sect_Silk-Flannel.jpg",
+      "size_bytes": 246246,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "SS205  Sofa_Chair.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SS205%20%20Sofa_Chair.jpg",
+      "size_bytes": 192611,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "SS209_Chair_Silk-Aqua.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SS209_Chair_Silk-Aqua.jpg",
+      "size_bytes": 212306,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Salerno3C Sofa & Chair-Europa Oyster.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Salerno3C%20Sofa%20%26%20Chair-Europa%20Oyster.jpg",
+      "size_bytes": 203606,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Salerno3C Sofa_Europa Oyster.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Salerno3C%20Sofa_Europa%20Oyster.jpg",
+      "size_bytes": 184669,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "SalernoSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SalernoSofaRoom1.jpg",
+      "size_bytes": 619788,
+      "size_mb": 0.59
+    },
+    {
+      "filename": "Samford_bronco deer.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Samford_bronco%20deer.jpg",
+      "size_bytes": 210601,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "San-Clemente_Sofa_SL_011517.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/San-Clemente_Sofa_SL_011517.jpg",
+      "size_bytes": 116713,
+      "size_mb": 0.11
+    },
+    {
+      "filename": "San-Juan_Sofa-Recliner_Liberty-Hazelnut_RS_110317.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/San-Juan_Sofa-Recliner_Liberty-Hazelnut_RS_110317.jpg",
+      "size_bytes": 238314,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "San-Juan_Sofa-_Liberty-Hazelnut_RS_110317.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/San-Juan_Sofa-_Liberty-Hazelnut_RS_110317.jpg",
+      "size_bytes": 224488,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Santa Cruz Room Sales Photo 052111.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Santa%20Cruz%20Room%20Sales%20Photo%20052111.jpg",
+      "size_bytes": 214333,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Santa-Monica_Ergo_Village-Antique_LG-Ostrich-Moccasin_RS_Model-02_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Santa-Monica_Ergo_Village-Antique_LG-Ostrich-Moccasin_RS_Model-02_121918.jpg",
+      "size_bytes": 200928,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Santa-Monica_Ergo_Village-Antique_LG-Ostrich-Moccasin_RS_Model-10_121918.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Santa-Monica_Ergo_Village-Antique_LG-Ostrich-Moccasin_RS_Model-10_121918.jpg",
+      "size_bytes": 203687,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "SantaCruzRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SantaCruzRoom1.jpg",
+      "size_bytes": 236060,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "SantaCruzSL1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SantaCruzSL1.jpg",
+      "size_bytes": 158439,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "Santa_Barbara_Sectional_RS_1_030713.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Santa_Barbara_Sectional_RS_1_030713.jpg",
+      "size_bytes": 211642,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Santiago_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Santiago_RS.jpg",
+      "size_bytes": 224639,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Sardinia24_3CRecl_Amalfi-Mist_Side-Open.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Sardinia24_3CRecl_Amalfi-Mist_Side-Open.jpg",
+      "size_bytes": 134441,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "Sardinia24a_Sofa-Chaise_Saloon Dove.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Sardinia24a_Sofa-Chaise_Saloon%20Dove.jpg",
+      "size_bytes": 189246,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Sardinia32_2C Sofa_Duran-Wheat_.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Sardinia32_2C%20Sofa_Duran-Wheat_.jpg",
+      "size_bytes": 290615,
+      "size_mb": 0.28
+    },
+    {
+      "filename": "Savannah Sect_Urban Cedar_#UPDATED.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah%20Sect_Urban%20Cedar_%23UPDATED.jpg",
+      "size_bytes": 242057,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Savannah Sectional_Urban Cedar_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah%20Sectional_Urban%20Cedar_2_ok.jpg",
+      "size_bytes": 219942,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Savannah Sectional_Urban Mahogany_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah%20Sectional_Urban%20Mahogany_2_ok.jpg",
+      "size_bytes": 234095,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Savannah3C-2C-CH_Urban-Mahogany_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah3C-2C-CH_Urban-Mahogany_Room.jpg",
+      "size_bytes": 211504,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Savannah3C2C-UrbanMahogany_Room_2022_ok2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah3C2C-UrbanMahogany_Room_2022_ok2.jpg",
+      "size_bytes": 254054,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "SavannahSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SavannahSofaRoom1.jpg",
+      "size_bytes": 208207,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Savannah_3C Sofa-Chair_Mercer-Dark brown.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_3C%20Sofa-Chair_Mercer-Dark%20brown.jpg",
+      "size_bytes": 199062,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Savannah_3C Sofa_GuanacoWest_2021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_3C%20Sofa_GuanacoWest_2021.jpg",
+      "size_bytes": 256492,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Savannah_3CSofa-Love-CH_Urban Cedar_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_3CSofa-Love-CH_Urban%20Cedar_Room.jpg",
+      "size_bytes": 226889,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Savannah_3CSofa_Chair_Guanco-Sangria_Library_RS_121719 Recolor-Caramel_ropped.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_3CSofa_Chair_Guanco-Sangria_Library_RS_121719%20Recolor-Caramel_ropped.jpg",
+      "size_bytes": 282238,
+      "size_mb": 0.27
+    },
+    {
+      "filename": "Savannah_3CSofa_Chair_Guanco-Sangria_Library_RS_New-As-of_112420.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_3CSofa_Chair_Guanco-Sangria_Library_RS_New-As-of_112420.jpg",
+      "size_bytes": 294926,
+      "size_mb": 0.28
+    },
+    {
+      "filename": "Savannah_3CSofa_Chair_Guanco-Sangria_Recolor-Caramel_Library_RS_121719.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_3CSofa_Chair_Guanco-Sangria_Recolor-Caramel_Library_RS_121719.jpg",
+      "size_bytes": 277709,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Savannah_4pcRoom_UrbanCedar_#UPDATED.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_4pcRoom_UrbanCedar_%23UPDATED.jpg",
+      "size_bytes": 208082,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Savannah_Chair_Guanco-Sangria_Library_RS_New-As-of_112420.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_Chair_Guanco-Sangria_Library_RS_New-As-of_112420.jpg",
+      "size_bytes": 69525,
+      "size_mb": 0.07
+    },
+    {
+      "filename": "Savannah_Guanaco-West.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_Guanaco-West.jpg",
+      "size_bytes": 230948,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Savannah_Room_UrbanCedar_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_Room_UrbanCedar_2022.jpg",
+      "size_bytes": 315895,
+      "size_mb": 0.3
+    },
+    {
+      "filename": "Savannah_Room_UrbanMahogany_2022.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Savannah_Room_UrbanMahogany_2022.jpg",
+      "size_bytes": 259907,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Scarborough_Sofa_RS_071516.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Scarborough_Sofa_RS_071516.jpg",
+      "size_bytes": 198063,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "SedonaSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SedonaSofaRoom1.jpg",
+      "size_bytes": 159262,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "ShermanOaks_3CSofa-Recliner-Matador-White.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ShermanOaks_3CSofa-Recliner-Matador-White.jpg",
+      "size_bytes": 259242,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Simon_3CSofa_Softsations-Camel_Axel_PB_Medlee-Marine_RS_010620  Resized.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Simon_3CSofa_Softsations-Camel_Axel_PB_Medlee-Marine_RS_010620%20%20Resized.jpg",
+      "size_bytes": 197493,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Simon_3CSofa_Softsations-Camel_Axel_PB_Medlee-Marine_RS_010620.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Simon_3CSofa_Softsations-Camel_Axel_PB_Medlee-Marine_RS_010620.jpg",
+      "size_bytes": 197732,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Simon_3CSofa_Softsations-Camel_Harvey_Chr_Softsations-Mocha_RS_010620.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Simon_3CSofa_Softsations-Camel_Harvey_Chr_Softsations-Mocha_RS_010620.jpg",
+      "size_bytes": 242393,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "SkylineSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SkylineSofaRoom1.jpg",
+      "size_bytes": 160858,
+      "size_mb": 0.15
+    },
+    {
+      "filename": "SohoRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SohoRoom1.jpg",
+      "size_bytes": 177660,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "SouthBeachSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SouthBeachSectionalRoom1.jpg",
+      "size_bytes": 168099,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "SpencerRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SpencerRoom1.jpg",
+      "size_bytes": 191625,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "St-James_Paloma_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/St-James_Paloma_RS.jpg",
+      "size_bytes": 277309,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "St-James_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/St-James_RS.jpg",
+      "size_bytes": 229525,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "St._James_Sofa No_Table_Final_111313.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/St._James_Sofa%20No_Table_Final_111313.jpg",
+      "size_bytes": 178954,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "St._James_Sofa_Final_111313.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/St._James_Sofa_Final_111313.jpg",
+      "size_bytes": 174866,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "St_James_Horizontal.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/St_James_Horizontal.jpg",
+      "size_bytes": 210972,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Stationary Solutions 201M_Sofa, Love & SwChair_Denver-Fawn.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary%20Solutions%20201M_Sofa%2C%20Love%20%26%20SwChair_Denver-Fawn.jpg",
+      "size_bytes": 214734,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Stationary Solutions-202_RS_071516.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary%20Solutions-202_RS_071516.jpg",
+      "size_bytes": 120792,
+      "size_mb": 0.12
+    },
+    {
+      "filename": "Stationary Solutions_205_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary%20Solutions_205_RS.jpg",
+      "size_bytes": 228991,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "Stationary-Solutions-201S_Sofa_Silk-Aqua.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary-Solutions-201S_Sofa_Silk-Aqua.jpg",
+      "size_bytes": 151681,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Stationary-Solutions-201S_Sofa_Silk-Aqua_206L_Chair_Otto_2_w Tables.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary-Solutions-201S_Sofa_Silk-Aqua_206L_Chair_Otto_2_w%20Tables.jpg",
+      "size_bytes": 194874,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Stationary-Solutions-209-Sofa_PS-509-Recliner_Vert_053117.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary-Solutions-209-Sofa_PS-509-Recliner_Vert_053117.jpg",
+      "size_bytes": 174580,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Stationary-Solutions-209M Sofa_PS 509 Recliner Silk Aqua.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary-Solutions-209M%20Sofa_PS%20509%20Recliner%20Silk%20Aqua.jpg",
+      "size_bytes": 187349,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Stationary-Solutions-209M_Sectional_Silk-Aqua_PS502WFC_Recliner_2 w tables.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary-Solutions-209M_Sectional_Silk-Aqua_PS502WFC_Recliner_2%20w%20tables.jpg",
+      "size_bytes": 223328,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Stationary-Solutions_201&206_Conv.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary-Solutions_201%26206_Conv.jpg",
+      "size_bytes": 195336,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Stationary-Solutions_201&206_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary-Solutions_201%26206_RS.jpg",
+      "size_bytes": 170266,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Stationary-Solutions_201_NoCktl_Conv_3.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary-Solutions_201_NoCktl_Conv_3.jpg",
+      "size_bytes": 196746,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Stationary-Solutions_201_RS_Conv_2 CROPPED.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary-Solutions_201_RS_Conv_2%20CROPPED.jpg",
+      "size_bytes": 180823,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Stationary-Solutions_201_RS_Conv_2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stationary-Solutions_201_RS_Conv_2.jpg",
+      "size_bytes": 202416,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Stetson3C_GrandCanyonStone_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stetson3C_GrandCanyonStone_Room.jpg",
+      "size_bytes": 298917,
+      "size_mb": 0.29
+    },
+    {
+      "filename": "Stratus_Closed_RS_1_030713.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stratus_Closed_RS_1_030713.jpg",
+      "size_bytes": 193140,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Stratus_Open_RS_1_030713.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Stratus_Open_RS_1_030713.jpg",
+      "size_bytes": 166986,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "SuttonPlaceConversationSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/SuttonPlaceConversationSofaRoom1.jpg",
+      "size_bytes": 175246,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Sydney_RS_1_041616.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Sydney_RS_1_041616.jpg",
+      "size_bytes": 222331,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "TUCSON_RS_2_030613.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/TUCSON_RS_2_030613.jpg",
+      "size_bytes": 261586,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "TahoeSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/TahoeSectionalRoom1.jpg",
+      "size_bytes": 208447,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "TahoeSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/TahoeSofaRoom1.jpg",
+      "size_bytes": 539010,
+      "size_mb": 0.51
+    },
+    {
+      "filename": "TahoeSofaRoom2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/TahoeSofaRoom2.jpg",
+      "size_bytes": 229385,
+      "size_mb": 0.22
+    },
+    {
+      "filename": "TimesSquareSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/TimesSquareSofaRoom1.jpg",
+      "size_bytes": 162965,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "TorreSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/TorreSofaRoom1.jpg",
+      "size_bytes": 702812,
+      "size_mb": 0.67
+    },
+    {
+      "filename": "Tratto_Taviano_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Tratto_Taviano_Room.jpg",
+      "size_bytes": 253925,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "TribecaLoftSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/TribecaLoftSectionalRoom1.jpg",
+      "size_bytes": 91053,
+      "size_mb": 0.09
+    },
+    {
+      "filename": "Uptown SLCHO (Urban Driftwood)_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Uptown%20SLCHO%20%28Urban%20Driftwood%29_ok.jpg",
+      "size_bytes": 197944,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Uptown SLCO (Urban Wheat)_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Uptown%20SLCO%20%28Urban%20Wheat%29_2_ok.jpg",
+      "size_bytes": 217161,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "Uptown Sectional (Urban Wheat)_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Uptown%20Sectional%20%28Urban%20Wheat%29_2_ok.jpg",
+      "size_bytes": 257241,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Uptown in Urban Arctic_SLC_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Uptown%20in%20Urban%20Arctic_SLC_2_ok.jpg",
+      "size_bytes": 243364,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "UptownSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/UptownSectionalRoom1.jpg",
+      "size_bytes": 144671,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "UptownSectionalRoom2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/UptownSectionalRoom2.jpg",
+      "size_bytes": 123897,
+      "size_mb": 0.12
+    },
+    {
+      "filename": "Uptown_L-Sectional 3-2_Urban Arctic.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Uptown_L-Sectional%203-2_Urban%20Arctic.jpg",
+      "size_bytes": 210488,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Uptown_LT3CSofa_2CLove_HalfCurves_UrbanIvory.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Uptown_LT3CSofa_2CLove_HalfCurves_UrbanIvory.jpg",
+      "size_bytes": 269449,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Uptown_SOFA_Urban Arctic_SLC_2_ok (2).jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Uptown_SOFA_Urban%20Arctic_SLC_2_ok%20%282%29.jpg",
+      "size_bytes": 238897,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Uptown_SOFA_Urban Arctic_SLC_2_ok.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Uptown_SOFA_Urban%20Arctic_SLC_2_ok.jpg",
+      "size_bytes": 238897,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Uptown_Sect_Urban-Driftwood_RS_121818.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Uptown_Sect_Urban-Driftwood_RS_121818.jpg",
+      "size_bytes": 248661,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "VENUS_3CSofa2CLoveCh_UrbanArctic.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/VENUS_3CSofa2CLoveCh_UrbanArctic.jpg",
+      "size_bytes": 222029,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "VENUS_3CSofa_Recl_UrbanArctic.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/VENUS_3CSofa_Recl_UrbanArctic.jpg",
+      "size_bytes": 188813,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "VENUS_Recl_UrbanArctic.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/VENUS_Recl_UrbanArctic.jpg",
+      "size_bytes": 115249,
+      "size_mb": 0.11
+    },
+    {
+      "filename": "Vail_Sect. GrandCanyon-Ortis_BoPeep.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Vail_Sect.%20GrandCanyon-Ortis_BoPeep.jpg",
+      "size_bytes": 300452,
+      "size_mb": 0.29
+    },
+    {
+      "filename": "VallartaDreamsSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/VallartaDreamsSectionalRoom1.jpg",
+      "size_bytes": 82278,
+      "size_mb": 0.08
+    },
+    {
+      "filename": "Vegas Black-Walnut legs.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Vegas%20Black-Walnut%20legs.jpg",
+      "size_bytes": 148300,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Vegas Black.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Vegas%20Black.jpg",
+      "size_bytes": 147946,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "VegasSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/VegasSectionalRoom1.jpg",
+      "size_bytes": 223294,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "VenetoSectionalOtisTablesRoom2.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/VenetoSectionalOtisTablesRoom2.jpg",
+      "size_bytes": 258754,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "VenetoSectionalRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/VenetoSectionalRoom1.jpg",
+      "size_bytes": 174805,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "Ventura_Sofa-Chair_Denver-Dk-Brown_RS_110917.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Ventura_Sofa-Chair_Denver-Dk-Brown_RS_110917.jpg",
+      "size_bytes": 258343,
+      "size_mb": 0.25
+    },
+    {
+      "filename": "Venus 3C & Recliner-Silk Putty_102020 resized.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Venus%203C%20%26%20Recliner-Silk%20Putty_102020%20resized.jpg",
+      "size_bytes": 276862,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Venus 3C & Recliner-Silk Putty_102020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Venus%203C%20%26%20Recliner-Silk%20Putty_102020.jpg",
+      "size_bytes": 276258,
+      "size_mb": 0.26
+    },
+    {
+      "filename": "Venus_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Venus_RS.jpg",
+      "size_bytes": 193877,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Venus_Sect_Europa-Edelweiss_RS_110719.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Venus_Sect_Europa-Edelweiss_RS_110719.jpg",
+      "size_bytes": 202032,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "VercelliSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/VercelliSofaRoom1.jpg",
+      "size_bytes": 136426,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "ViewChair-Kiva-Steps.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/ViewChair-Kiva-Steps.jpg",
+      "size_bytes": 250244,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Vivaldichair_whispersnowflake_102020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Vivaldichair_whispersnowflake_102020.jpg",
+      "size_bytes": 190565,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Warner_Sectional_w-Table_120213.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Warner_Sectional_w-Table_120213.jpg",
+      "size_bytes": 136173,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "WesleySectionalOtisTableRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/WesleySectionalOtisTableRoom1.jpg",
+      "size_bytes": 194386,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Wesley_Sectional_NavajoCaramel_2020.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Wesley_Sectional_NavajoCaramel_2020.jpg",
+      "size_bytes": 319392,
+      "size_mb": 0.3
+    },
+    {
+      "filename": "WestPoint4ConversationSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/WestPoint4ConversationSofaRoom1.jpg",
+      "size_bytes": 174656,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "WestPointSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/WestPointSofaRoom1.jpg",
+      "size_bytes": 180697,
+      "size_mb": 0.17
+    },
+    {
+      "filename": "WestbrookSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/WestbrookSofaRoom1.jpg",
+      "size_bytes": 200268,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Westfield_Sofa-Chair_082917.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Westfield_Sofa-Chair_082917.jpg",
+      "size_bytes": 164527,
+      "size_mb": 0.16
+    },
+    {
+      "filename": "Westin_RS_1_041616.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Westin_RS_1_041616.jpg",
+      "size_bytes": 209827,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Westin_Sofa-Chair_Gibson_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Westin_Sofa-Chair_Gibson_Room.jpg",
+      "size_bytes": 147189,
+      "size_mb": 0.14
+    },
+    {
+      "filename": "Westin_Sofa_RS.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Westin_Sofa_RS.jpg",
+      "size_bytes": 188028,
+      "size_mb": 0.18
+    },
+    {
+      "filename": "Williamsburg4SeatConversationSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Williamsburg4SeatConversationSofaRoom1.jpg",
+      "size_bytes": 206077,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "WindsorSofaRoom1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/WindsorSofaRoom1.jpg",
+      "size_bytes": 216552,
+      "size_mb": 0.21
+    },
+    {
+      "filename": "YoungstownOttomanSL1.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/YoungstownOttomanSL1.jpg",
+      "size_bytes": 101108,
+      "size_mb": 0.1
+    },
+    {
+      "filename": "Zander_SLCO_Denver-Pecan_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Zander_SLCO_Denver-Pecan_Room.jpg",
+      "size_bytes": 212043,
+      "size_mb": 0.2
+    },
+    {
+      "filename": "Zander_Sectional_Silk-Palomino_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Zander_Sectional_Silk-Palomino_Room.jpg",
+      "size_bytes": 252871,
+      "size_mb": 0.24
+    },
+    {
+      "filename": "Zane_Sofa-Chair_Softsations-Ash_RS_092021.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Zane_Sofa-Chair_Softsations-Ash_RS_092021.jpg",
+      "size_bytes": 246160,
+      "size_mb": 0.23
+    },
+    {
+      "filename": "Zane_Sofa_Chr_Eugene-Cognac_RS_110719.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Zane_Sofa_Chr_Eugene-Cognac_RS_110719.jpg",
+      "size_bytes": 201541,
+      "size_mb": 0.19
+    },
+    {
+      "filename": "Zen_Room.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/Zen_Room.jpg",
+      "size_bytes": 134135,
+      "size_mb": 0.13
+    },
+    {
+      "filename": "httpswww.omnialeather.netimagesproductNewportDPeninsulaS_Sofa-Chaise_SilkPutty_Room_HR-scaled.jpg",
+      "url": "https://raw.githubusercontent.com/frysky95/omnia-room-shots/copilot/fix-d6e281e5-9137-45c4-bbde-3dcde535f63d/httpswww.omnialeather.netimagesproductNewportDPeninsulaS_Sofa-Chaise_SilkPutty_Room_HR-scaled.jpg",
+      "size_bytes": 260866,
+      "size_mb": 0.25
+    }
+  ]
+}
